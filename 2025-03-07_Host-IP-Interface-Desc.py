@@ -1,7 +1,3 @@
-
-
-WORKING PYTHON SCRIPT FOR SINGULAR SHEET
-
 import pandas as pd
 from netmiko import ConnectHandler
 import re
